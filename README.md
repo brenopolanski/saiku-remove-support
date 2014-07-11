@@ -1,2 +1,1 @@
-saiku-config
-============
+# Saiku Configuration
