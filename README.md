@@ -1,1 +1,1 @@
-# Saiku Configuration
+# Remove Saiku Support Label
