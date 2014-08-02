@@ -4,7 +4,7 @@
 
 ### Remove Saiku Support Label
 
-[Saiku](http://www.meteorite.bi/saiku) is an open source analytics client developed by [meteorite](http://www.meteorite.bi/). A user interface for the analytical tool.
+[Saiku](http://www.meteorite.bi/saiku) is an open source analytics client developed by [Meteorite BI](http://www.meteorite.bi/). A user interface for the analytical tool.
 
 ## Usage
 
@@ -16,7 +16,7 @@
   │   └── js/
   │       └── saiku/
   │           └── plugins/
-  │               └── Digest/
+  │               └── RemoveSupport/
   │                   └── plugin.js
   ```
 
