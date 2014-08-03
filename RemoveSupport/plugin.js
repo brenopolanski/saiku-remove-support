@@ -6,8 +6,8 @@
  */
 var RemoveSupport = Backbone.View.extend({
 	initialize: function() {
-		// Remove template
-		$('#template-upgrade').remove();
+		// Remove support label
+		$('.upgrade').remove();
 	}
 });
 
