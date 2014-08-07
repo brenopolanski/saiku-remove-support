@@ -8,7 +8,7 @@
 
 ## Usage
 
-1. Include **Digest** folder in:
+1. Include **RemoveSupport** folder in:
 
 	
   ```
